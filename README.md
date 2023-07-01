@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wali Lambert
-- 👀 I’m interested in not only being better, but seeing everyone else fail
-- 🌱 I’m currently learning everything
+- 👀 I’m interested in code
+- 🌱 I’m currently learning some stuff
 - 📫 How to reach me wali.lambert1960@gmail.com
 
 
