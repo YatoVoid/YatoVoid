@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Wali Lambert
-- 👀 I’m interested in code
-- 🌱 I’m currently learning some stuff
+DONT TOUCH MY CODE, I FORGET TO PRIVATE IT 🙏🙏🙏🙏
+
+
+
 - 📫 How to reach me wali.lambert1960@gmail.com
 
 
