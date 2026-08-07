@@ -25,6 +25,13 @@ rules no score can override. 65 languages, translated on the device. No build
 step and nothing to install.
 [Try it](https://yatovoid.github.io/vitals-local/)
 
+**[YatoStream](https://github.com/YatoVoid/YatoStream)** &nbsp;·&nbsp; Go
+A self hosted media server for anime and manga: library scanning that tolerates
+messy file names, AniList sync, torrent search and streaming through your own
+client, transcoding to whatever device is watching. Desktop app for Windows,
+Linux and macOS, plus a companion mobile app. Does not host or provide any
+media itself.
+
 **[Pekko Fridge](https://github.com/YatoVoid/Pekko-Fridge)** &nbsp;·&nbsp; JavaScript
 A private expiry tracker for food, medicine and cosmetics. Tells you what to
 use first and what is about to go. Cute on purpose.
@@ -33,15 +40,26 @@ use first and what is about to go. Cute on purpose.
 Points a camera at an ingredient label and reads it offline. No lookup service,
 so no record of what anyone scanned.
 
-**[Macro Tool](https://github.com/YatoVoid/Macro-Tool)** &nbsp;·&nbsp; Python
-Macro recording and playback for Linux under X11.
-
 **[Floorsense](https://github.com/YatoVoid/floorsense)** &nbsp;·&nbsp; TypeScript
 WiFi presence analytics for venues, built around consent rather than around
 collecting whatever the hardware can see.
 
+**[Macro Tool](https://github.com/YatoVoid/Macro-Tool)** &nbsp;·&nbsp; Python
+Macro recording and playback for Linux under X11.
+
 **[TLP Battery Tuner](https://github.com/YatoVoid/tlp-battery-tuner)** &nbsp;·&nbsp; Shell
 One command to get sane battery settings on any Linux distribution.
+
+**[Cold Boot](https://github.com/YatoVoid/coldboot)** &nbsp;·&nbsp; Python
+Turns a chosen news feed into a narrated, captioned YouTube video overnight,
+using a local LLM for the script, Kokoro for narration and Whisper for
+captions. Nothing runs in the cloud and nothing charges monthly. The README
+is upfront about how long a channel actually takes to earn anything.
+
+**[Karaoke Queue](https://github.com/YatoVoid/karaoke-queue)** &nbsp;·&nbsp; JavaScript
+A local network song request queue built to replace paid per song karaoke
+systems. Guests queue songs from a tablet, a second screen drives the venue's
+speakers, and the whole thing runs off one machine with no signup.
 
 ### Reach me
 
