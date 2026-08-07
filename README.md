@@ -25,13 +25,6 @@ rules no score can override. 65 languages, translated on the device. No build
 step and nothing to install.
 [Try it](https://yatovoid.github.io/vitals-local/)
 
-**[YatoStream](https://github.com/YatoVoid/YatoStream)** &nbsp;·&nbsp; Go
-A self hosted media server for anime and manga: library scanning that tolerates
-messy file names, AniList sync, torrent search and streaming through your own
-client, transcoding to whatever device is watching. Desktop app for Windows,
-Linux and macOS, plus a companion mobile app. Does not host or provide any
-media itself.
-
 **[Pekko Fridge](https://github.com/YatoVoid/Pekko-Fridge)** &nbsp;·&nbsp; JavaScript
 A private expiry tracker for food, medicine and cosmetics. Tells you what to
 use first and what is about to go. Cute on purpose.
