@@ -17,6 +17,12 @@ to be honest about what it actually needs.
 
 ### Projects
 
+**[YatoStream](https://github.com/YatoVoid/YatoStream)** &nbsp;·&nbsp; Go
+A local anime and manga server: library scanning that tolerates messy
+folder naming, torrent search and direct streaming, AniList sync, manga
+reading, apps for desktop and mobile. Runs on your own machine, nothing
+routed through anyone else's.
+
 **[Vitals Local](https://github.com/YatoVoid/vitals-local)** &nbsp;·&nbsp; JavaScript, no dependencies
 Health reference and symptom triage in the browser. An adaptive question flow
 picks whichever question is expected to narrow the causes most, over published
@@ -24,6 +30,13 @@ decision rules such as Wells, Alvarado, Ottawa and SNNOOP10. Red flags are hard
 rules no score can override. 65 languages, translated on the device. No build
 step and nothing to install.
 [Try it](https://yatovoid.github.io/vitals-local/)
+
+**[Witch Atelier](https://github.com/YatoVoid/witch-atelier)** &nbsp;·&nbsp; JavaScript, no dependencies
+A spell circle drawing tool in the style of Witch Hat Atelier. A freehand
+stroke is read by its own shape, not matched against one fixed template
+per sign, and recognized compositions are checked against a full
+spellbook. Static site, nothing to install.
+[Try it](https://yatovoid.github.io/witch-atelier/)
 
 **[Pekko Fridge](https://github.com/YatoVoid/Pekko-Fridge)** &nbsp;·&nbsp; JavaScript
 A private expiry tracker for food, medicine and cosmetics. Tells you what to
@@ -53,6 +66,12 @@ is upfront about how long a channel actually takes to earn anything.
 A local network song request queue built to replace paid per song karaoke
 systems. Guests queue songs from a tablet, a second screen drives the venue's
 speakers, and the whole thing runs off one machine with no signup.
+
+**[YatoGaku](https://github.com/YatoVoid/YatoGaku)** &nbsp;·&nbsp; TypeScript
+A Japanese learning site built by combining existing open source tools
+instead of rebuilding a kana trainer or a spaced repetition engine from
+scratch. Work in progress.
+[Try it](https://yatovoid.github.io/YatoGaku/)
 
 ### Reach me
 
