@@ -1,0 +1,8 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wali Lambert, YatoVoid">
+  <rect width="1200" height="260" fill="#0d0d12"/>
+  <line x1="0" y1="259" x2="1200" y2="259" stroke="#c9a24b" stroke-width="2"/>
+  <text x="64" y="118" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="46" fill="#f2f0eb">Wali Lambert</text>
+  <text x="66" y="168" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="21" fill="#9a9690">Software that runs on your device and keeps your data there.</text>
+  <text x="1136" y="60" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="20" fill="#c9a24b">( ｡ •̀ w •́ ｡ )</text>
+  <text x="1136" y="200" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="16" fill="#6e6a63">github.com/YatoVoid</text>
+</svg>

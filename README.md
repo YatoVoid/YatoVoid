@@ -1,11 +1,5 @@
 <div align="center">
-
-### ( ｡ •̀ w •́ ｡ )
-
-**Wali Lambert**
-
-Software that runs on your device and keeps your data there.
-
+<img src="assets/banner.svg" alt="Wali Lambert" width="100%">
 </div>
 
 ---
@@ -72,6 +66,27 @@ A Japanese learning site built by combining existing open source tools
 instead of rebuilding a kana trainer or a spaced repetition engine from
 scratch. Work in progress.
 [Try it](https://yatovoid.github.io/YatoGaku/)
+
+### Also shipping
+
+Not everything is offline. These talk to a network because the job needs one.
+
+**[Schedule.az](https://github.com/YatoVoid/schedule.az)** &nbsp;·&nbsp; TypeScript, Next.js, Postgres
+A multi-tenant booking platform and directory for local service businesses:
+barbershops, salons, spas, tutoring centers, gyms. Phone-OTP accounts, staff
+calendars with time-off exceptions, SMS-confirmed bookings, and analytics
+computed from what was actually charged, not what was listed.
+
+**[Full Hearts](https://github.com/YatoVoid/FullHearts)** &nbsp;·&nbsp; TypeScript, Next.js
+A Minecraft modpack builder. Pick mods and it resolves every dependency,
+version-matches them to your loader, and checks they run together against
+live Modrinth and CurseForge data before exporting one `.mrpack`.
+[Try it](https://fullhearts.app)
+
+**[resto-bot](https://github.com/YatoVoid/resto-bot)** &nbsp;·&nbsp; Python
+Terminal proof of concept for a WhatsApp restaurant booking assistant. Figures
+out which location a guest means, books a table against real availability,
+extends existing reservations, and forwards anything a manager should handle.
 
 ### Reach me
 
