@@ -9,6 +9,16 @@ paywall. Things that keep working on a train, in a basement, or on a phone with
 no signal are simply better tools, and building that way forces every decision
 to be honest about what it actually needs.
 
+```text
+$ cat ~/now
+YatoStream     local anime/manga server, Go, nothing routed off-device
+vitals-local   offline symptom triage, 65 languages, no backend
+schedule.az    multi-tenant booking platform, Next.js + Postgres
+
+$ echo $STACK
+go · typescript · python · javascript · react-native · next.js · postgres
+```
+
 ### Projects
 
 **[YatoStream](https://github.com/YatoVoid/YatoStream)** &nbsp;·&nbsp; Go
@@ -88,6 +98,17 @@ Terminal proof of concept for a WhatsApp restaurant booking assistant. Figures
 out which location a guest means, books a table against real availability,
 extends existing reservations, and forwards anything a manager should handle.
 
+### Stack
+
+**Languages** &nbsp;`Go` · `TypeScript` · `Python` · `JavaScript` · `Shell`
+
+**Frameworks** &nbsp;`Next.js` · `React Native`
+
+**Data** &nbsp;`Postgres`
+
 ### Reach me
 
+```text
+$ echo $EMAIL
 wali.lambert1960@gmail.com
+```
