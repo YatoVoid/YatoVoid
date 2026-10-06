@@ -58,6 +58,18 @@ stroke is read by its own shape rather than matched against one fixed template
 per sign, and finished circles are checked against a full spellbook.
 **[Try it](https://yatovoid.github.io/witch-atelier/)** &nbsp;·&nbsp; [source](https://github.com/YatoVoid/witch-atelier)
 
+### Work
+
+**[WhaleTale](https://whaletale.tech)** &nbsp;·&nbsp; website, English and Russian
+The site for WhaleTale, a hardware company in Azerbaijan that builds
+biometric, security, transport and infrastructure systems in-house, from PCB
+design to deployment: automated border gates, ID terminals, connected city
+buses.
+**[whaletale.tech](https://whaletale.tech)**
+
+**Client work** &nbsp;·&nbsp; [CRUNCH Burgers](https://yatovoid.github.io/crunch-burgers/), a website rebuild
+for a Baku burger chain, in Azerbaijani, English and Russian.
+
 ### Run it yourself
 
 **[YatoStream](https://github.com/YatoVoid/YatoStream)** &nbsp;·&nbsp; Go
