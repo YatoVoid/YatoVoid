@@ -10,6 +10,7 @@ a server only because the job needs one.
 
 ```text
 $ cat ~/now
+forsakeai      a free AI humanizer that runs in the browser
 quiet-courier  a daily newspaper for Kindle and Kobo, launched October 2026
 fullhearts     Minecraft modpacks that launch on the first try
 schedule.az    booking platform for Baku's service businesses
@@ -19,6 +20,15 @@ typescript · python · go · javascript · next.js · postgres · react-native
 ```
 
 ### Live
+
+**[ForsakeAI](https://yatovoid.github.io/forsakeai/)** &nbsp;·&nbsp; TypeScript, Svelte, WebGPU
+A free AI humanizer that runs in the browser. It marks the phrases that make
+text read as machine-written, then rewrites it with a 4B model on your own
+graphics card, or through your own API key. Every change is shown and can be
+undone, and numbers, names and links are locked so the facts survive. On a
+sample ad, a commercial detector went from 90% AI to 8%. No account, nothing
+uploaded.
+**[Try it](https://yatovoid.github.io/forsakeai/)** &nbsp;·&nbsp; [source](https://github.com/YatoVoid/forsakeai)
 
 **[The Quiet Courier](https://quietcourier.com)** &nbsp;·&nbsp; Python, TypeScript, Next.js, Postgres
 A daily newspaper for e-readers. Every morning at 5 a.m. local time it lands on
