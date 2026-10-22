@@ -63,6 +63,14 @@ anything is written. Desktop app and command line for Windows, macOS and
 Linux, and on the AUR.
 **[Download](https://github.com/YatoVoid/manga-to-ereader/releases/latest)** &nbsp;·&nbsp; `yay -S tankobon` &nbsp;·&nbsp; [source](https://github.com/YatoVoid/manga-to-ereader)
 
+**[Macro Tool](https://github.com/YatoVoid/Macro-Tool)** &nbsp;·&nbsp; Python, Qt
+An auto clicker and macro recorder for Windows, macOS and Linux, including
+Wayland, where it clicks and types through virtual input devices. Record a
+task once and it comes back as a few readable steps; pick click points on a
+frozen screen with a magnifier. Timed against the clock, so it holds its
+rate over hours.
+**[Download](https://github.com/YatoVoid/Macro-Tool/releases/latest)** &nbsp;·&nbsp; `yay -S macro-tool` &nbsp;·&nbsp; [source](https://github.com/YatoVoid/Macro-Tool)
+
 **[YatoVoid Music Box](https://yatovoid.github.io/yatovoid-music-box/)** &nbsp;·&nbsp; JavaScript, Web Audio
 An 8-bit music editor in the browser. Notes go on a piano roll, each bar gets
 a chord, and it plays back with NES-style square and triangle waves plus a
@@ -115,9 +123,6 @@ date with the camera on the device and reminds you before things go off.
 **[TLP Battery Tuner](https://github.com/YatoVoid/tlp-battery-tuner)** &nbsp;·&nbsp; Shell
 One command for sane battery settings on any Linux distribution. Also on
 [Homebrew](https://github.com/YatoVoid/homebrew-tlp-battery-tuner).
-
-**[Macro Tool](https://github.com/YatoVoid/Macro-Tool)** &nbsp;·&nbsp; Python
-Macro recording and playback for Linux under X11.
 
 ### Reach me
 
