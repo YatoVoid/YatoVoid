@@ -14,6 +14,7 @@ forsakeai      a free AI humanizer that runs in the browser
 quiet-courier  a daily newspaper for Kindle and Kobo, launched October 2026
 fullhearts     Minecraft modpacks that launch on the first try
 schedule.az    booking platform for Baku's service businesses
+tankobon       manga chapters to one .cbz per volume, for e-readers
 
 $ echo $STACK
 typescript · python · go · javascript · next.js · postgres · react-native
@@ -53,6 +54,30 @@ calendars with time-off exceptions, SMS-confirmed bookings, and analytics
 computed from what was actually charged, not what was listed. Live and taking
 its first businesses.
 **[schedule.az](https://schedule.az)** &nbsp;·&nbsp; [source](https://github.com/YatoVoid/schedule.az)
+
+**[Tankobon](https://github.com/YatoVoid/manga-to-ereader)** &nbsp;·&nbsp; Python, Qt
+Packs downloaded manga chapters into one ordered `.cbz` per volume, ready for
+Kindle Comic Converter. Chapters a site left without a volume number are
+placed in the right volume, and incomplete chapters are flagged before
+anything is written. Desktop app and command line for Windows, macOS and
+Linux, and on the AUR.
+**[Download](https://github.com/YatoVoid/manga-to-ereader/releases/latest)** &nbsp;·&nbsp; `yay -S tankobon` &nbsp;·&nbsp; [source](https://github.com/YatoVoid/manga-to-ereader)
+
+**[YatoVoid Music Box](https://yatovoid.github.io/yatovoid-music-box/)** &nbsp;·&nbsp; JavaScript, Web Audio
+An 8-bit music editor in the browser. Notes go on a piano roll, each bar gets
+a chord, and it plays back with NES-style square and triangle waves plus a
+bass line and backing that follow the chords. Exports WAV that loops without a
+gap, MIDI, or a song file to open again later.
+**[Try it](https://yatovoid.github.io/yatovoid-music-box/)** &nbsp;·&nbsp; [source](https://github.com/YatoVoid/yatovoid-music-box)
+
+**[Power Guard 360](https://power-guard-360.vercel.app)** &nbsp;·&nbsp; TypeScript, React, three.js, Python
+Predictive maintenance for a gas turbine plant, built at CodeRED (University
+of Houston) for the Chevron track. Two Random Forests trained on the AI4I 2020
+dataset flag turbines that need maintenance and say why, a live Arduino board
+drives one turbine and watches for gas leaks, and the plant manager dispatches
+an engineer whose phone leads them to the job. The site runs a local
+simulation of the plant.
+**[Open the plant](https://power-guard-360.vercel.app)** &nbsp;·&nbsp; [source](https://github.com/YatoVoid/PowerGuard360)
 
 **[Vitals Local](https://yatovoid.github.io/vitals-local/)** &nbsp;·&nbsp; JavaScript, no dependencies
 Health reference and symptom triage in the browser. An adaptive question flow
