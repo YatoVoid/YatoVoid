@@ -70,15 +70,6 @@ bass line and backing that follow the chords. Exports WAV that loops without a
 gap, MIDI, or a song file to open again later.
 **[Try it](https://yatovoid.github.io/yatovoid-music-box/)** &nbsp;·&nbsp; [source](https://github.com/YatoVoid/yatovoid-music-box)
 
-**[Power Guard 360](https://power-guard-360.vercel.app)** &nbsp;·&nbsp; TypeScript, React, three.js, Python
-Predictive maintenance for a gas turbine plant, built at CodeRED (University
-of Houston) for the Chevron track. Two Random Forests trained on the AI4I 2020
-dataset flag turbines that need maintenance and say why, a live Arduino board
-drives one turbine and watches for gas leaks, and the plant manager dispatches
-an engineer whose phone leads them to the job. The site runs a local
-simulation of the plant.
-**[Open the plant](https://power-guard-360.vercel.app)** &nbsp;·&nbsp; [source](https://github.com/YatoVoid/PowerGuard360)
-
 **[Vitals Local](https://yatovoid.github.io/vitals-local/)** &nbsp;·&nbsp; JavaScript, no dependencies
 Health reference and symptom triage in the browser. An adaptive question flow
 picks whichever question narrows the causes most, over published decision
