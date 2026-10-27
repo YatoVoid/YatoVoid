@@ -124,6 +124,27 @@ date with the camera on the device and reminds you before things go off.
 One command for sane battery settings on any Linux distribution. Also on
 [Homebrew](https://github.com/YatoVoid/homebrew-tlp-battery-tuner).
 
+### HolyC
+
+Programs in Terry Davis's language, compiled to native binaries with
+[hcc](https://github.com/Jamesbarford/holyc-lang) instead of running inside
+TempleOS.
+
+**[Ossuary](https://yatovoid.itch.io/ossuary-holyc)** &nbsp;·&nbsp; HolyC, SDL2, OpenGL
+A first-person catacomb horror prototype. Find five relics in the dark, open
+the gate, and get out before the warden finds you. Your lantern lets you see,
+and it lets the warden see you. The enemy AI, pathfinding, collision,
+procedural textures and renderer are all HolyC. One level, no audio yet.
+**[Download](https://yatovoid.itch.io/ossuary-holyc)** (Linux) &nbsp;·&nbsp; [docs](https://yatovoid.github.io/ossuary/) &nbsp;·&nbsp; [source](https://github.com/YatoVoid/ossuary)
+
+**[HolyC Graphics Guide](https://yatovoid.github.io/holyc-graphics-guide/)** &nbsp;·&nbsp; HolyC, SDL2, OpenGL
+A guide and starter kit for graphics in HolyC on Linux, macOS and WSL2:
+thirteen example programs, from a software framebuffer and bitmap font to a
+scrolling platformer and OpenGL. Every example renders headlessly, and CI
+checks each frame against a recorded hash. It also documents the hcc compiler
+bugs found along the way, all reported upstream.
+**[Read the guide](https://yatovoid.github.io/holyc-graphics-guide/)** &nbsp;·&nbsp; [source](https://github.com/YatoVoid/holyc-graphics-guide)
+
 ### Reach me
 
 ```text
